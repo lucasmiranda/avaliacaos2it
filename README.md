@@ -1,9 +1,9 @@
 # avaliacaos2it
 
-1 - A
-2 - D
-3 - C
-4 - A
-5 - A
-6 - Certo
-7 - Errado
+1 - A <br />
+2 - D <br />
+3 - C <br />
+4 - A <br />
+5 - A <br />
+6 - Certo <br />
+7 - Errado <br />
